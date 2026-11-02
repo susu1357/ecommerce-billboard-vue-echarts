@@ -1,0 +1,4 @@
+venv/
+web-dashuboard/node_modules/
+__pycache__/
+*.csv
