@@ -20,7 +20,12 @@
 5. 卡片式布局、柔和商务配色，看板美化
 
 ## 📷 预览
-（这里之后你可以截图看板页面，上传图片放到这里）
+<img width="616" height="491" alt="image" src="https://github.com/user-attachments/assets/b47ec4db-f23b-4c8c-ae34-1adc5b521561" />
+<img width="597" height="392" alt="image" src="https://github.com/user-attachments/assets/4511263c-8ce6-4c76-b7b5-e6c68a036b25" />
+<img width="604" height="392" alt="image" src="https://github.com/user-attachments/assets/2530ab71-ce7d-41ec-9e1f-5c0e82d4282e" />
+
+
+
 
 ## 🚀 本地运行
 1. 克隆仓库
